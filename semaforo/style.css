@@ -1,0 +1,13 @@
+main{
+
+    text-align: center;
+}
+
+
+button{
+    border-radius: 7px;
+    font-family: fantasy;
+    font-size: medium;
+    margin: 20px 10px;
+    width: 100px;
+}
