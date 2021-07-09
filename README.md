@@ -1,1 +1,1 @@
-# Exercícios para praticar: Semáforo.
+# Exercícios para praticar: Semáforo. (Ainda em construção)
